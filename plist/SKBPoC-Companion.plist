@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://106.254.227.194:5810/ipa/SKBPoC-Companion.ipa</string>
+					<string>http://106.254.227.194:5810/ipa/SKBroadband-Companion.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -25,7 +25,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>SKBPoC-Companion</string>
+				<string>SKBroadband-Companion</string>
 			</dict>
 		</dict>
 	</array>
